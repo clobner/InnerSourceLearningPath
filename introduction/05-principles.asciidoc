@@ -3,7 +3,7 @@
 Every company, team, project, and individual is different.
 Because of that fact, the exact way that the concept of InnerSource works will vary from one situation to another.
 At its core, however, are four principles that form the bedrock of any successful instance of InnerSource.
-These principles have inspiration in successful open source projects and are required in order for InnerSource to achieve the benefits described earlier.
+These principles were inspired by successful open source projects and are required in order for InnerSource to achieve the benefits described earlier.
 
 The principles are:
 
@@ -23,7 +23,7 @@ Host team contact information should be prevalent with as many channels as makes
 Host team intentions to accept InnerSource contributions to their project should be shared through relevant organization channels to raise awareness.
 Particularly in smaller settings you may want to establish a regular "broadcast" on the InnerSource work your team is doing.
 In larger settings, however, such broadcast may create a lot of noise, and it may be more approproate to make sure the project is discoverable in a easy-to-use tool.
-Remember, the goal is awareness use the appropriate channels that work in YOUR company.
+Remember, the goal is awareness. Use the appropriate channels that work in YOUR company.
 
 By no means is the above an exhaustive list.
 Project openness will typically be directly related to how successful a project is in terms of InnerSource.
