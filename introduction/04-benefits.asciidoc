@@ -4,7 +4,7 @@ There are many benefits to collaborating via InnerSource.
 InnerSource gives a company a scalable strategy for *guest teams to get feature requests when they need them* without the long-term burden of maintenance.
 The company as a whole wins as the time of guest teams is put into code that others can use.
 
-While that result is a shining benefit of InnerSource, there are many benefits to hosts that receive regular InnerSource contributions.
+There are also many benefits to hosts that receive regular InnerSource contributions.
 Recall that, as part of the InnerSource process, the product owner on the host team agrees from the outset that contributed features are good and desirable.
 InnerSource allows the host team to receive *help in creating a better product* for its consumers!
 
