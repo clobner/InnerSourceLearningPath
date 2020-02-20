@@ -3,7 +3,7 @@
 Every company, team, project, and individual is different.
 Because of that fact, the exact way that the concept of InnerSource works will vary from one situation to another.
 At its core, however, are four principles that form the bedrock of any successful instance of InnerSource.
-These principles have inspiration in successful open source projects and are required in order for InnerSource to achieve the benefits described earlier.
+These principles were inspired by successful open source projects and are required in order for InnerSource to achieve the benefits described earlier.
 
 The principles are:
 
